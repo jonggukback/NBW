@@ -11,7 +11,6 @@ NBW는 도서이커머스 웹사이트로 개발 기간은 2022-10-03 ~ 2022-11-
 ##  <img width="30" height="30" src="https://user-images.githubusercontent.com/95892601/204138950-40ec2ebd-fb00-4e3b-b3db-75ba7fe8f156.png">시연영상 및 회고록
 <ul>
 <li>🎥<a href="https://www.youtube.com/watch?v=Z4p-AV51g2k">시연영상 바로가기</a></li>
-<li>📄<a href="https://odon2.tistory.com/34">회고록 바로가기</a></li>
 <li>🔥<a href="http://13.125.246.191/home">배포주소</a></li>
 </ul>
 
@@ -75,18 +74,5 @@ NBW는 도서이커머스 웹사이트로 개발 기간은 2022-10-03 ~ 2022-11-
 
 ### 개별코드 작성
 <ul>
- <li><a href="https://github.com/odong2/NBW/tree/main/src/main/java/com/finalpj/nbw/coupon">쿠폰 디렉토리</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/resources/mapper/couponMapper.xml">쿠폰 Mapper</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/webapp/WEB-INF/views/admin/coupon/couponList.jsp">쿠폰 관리자 페이지</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/webapp/WEB-INF/views/mypage/coupon.jsp">마이페이지 쿠폰 페이지</a></li>
- <li><a href="https://github.com/odong2/NBW/tree/main/src/main/java/com/finalpj/nbw/payment/controller">결제 디렉토리</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/resources/mapper/paymentMapper.xml">결제 Mapper1</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/resources/mapper/refundMapper.xml">결제 Mapper2</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/webapp/WEB-INF/views/mypage/payment.jsp">마이페이지 주문조회 페이지</a></li>
- <li><a href="https://github.com/odong2/NBW/tree/main/src/main/java/com/finalpj/nbw/notice">공지글 디렉토리</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/java/com/finalpj/nbw/admin/controller/AdminNoticeController.java">공지글 관리자 Controller</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/resources/mapper/noticeMapper.xml">공지글 Mapper</a></li>
- <li><a href="https://github.com/odong2/NBW/blob/main/src/main/resources/mapper/ntCommentMapper.xml">공지글 댓글 및 대댓글 Mapper</a></li>
- <li><a href="https://github.com/odong2/NBW/tree/main/src/main/webapp/WEB-INF/views/admin/notice">공지글 관리자 페이지</a></li>
- <li><a href="https://github.com/odong2/NBW/tree/main/src/main/webapp/WEB-INF/views/notice">공지글 클라이언트 페이지</a></li>
+
 </ul>
