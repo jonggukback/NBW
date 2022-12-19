@@ -74,5 +74,12 @@ NBW는 도서이커머스 웹사이트로 개발 기간은 2022-10-03 ~ 2022-11-
 
 ### 개별코드 작성
 <ul>
-
+ <li><a href="https://github.com/jonggukback/NBW/tree/main/src/main/java/com/finalpj/nbw/member">회원 디렉토리</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/tree/main/src/main/java/com/finalpj/nbw/product">상품 디렉토리</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/tree/main/src/main/java/com/finalpj/nbw/login">로그인 디렉토리</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/tree/main/src/main/java/com/finalpj/nbw/admin">관리자 디렉토리</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/blob/main/src/main/resources/mapper/memberMapper.xml">회원 Mapper</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/blob/main/src/main/resources/mapper/productMapper.xml">상품 Mapper</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/blob/main/src/main/resources/mapper/loginMapper.xml">로그인 Mapper</a></li>
+ <li><a href="https://github.com/jonggukback/NBW/tree/main/src/main/java/com/finalpj/common/interceptor">로그인 관련 인터셉터</a></li>
 </ul>
